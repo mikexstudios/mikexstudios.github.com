@@ -78,6 +78,17 @@ body#index
       margin-bottom: 0.0em
     p
       margin-bottom: 0em
+    p.current
+      font-family: $alt_font
+      line-height: 1.5
+      font-size: 0.8em
+      //text-align: justify
+      margin-bottom: 1em
+    p.email
+      line-height: 1
+      small
+        font-size: 0.5em
+        margin-left: 80px
   #content
     ul
       +no-bullets
@@ -86,4 +97,11 @@ body#index
       font-family: $alt_font
       li
         margin-bottom: 0.0em
-      
+        small
+          display: block
+          margin-top: -1em
+          font-size: 0.6em
+          color: #999
+      li.notused
+        a, a:link
+          color: #aaa
