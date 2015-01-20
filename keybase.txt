@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/mikeh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mikexstudios.com
+  * I am mikeh (https://keybase.io/mikeh) on keybase.
+  * I have a public key with fingerprint 77A7 A6E6 5D56 92F5 9D57  FC54 6A88 6BF2 BC64 F3FD
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "77a7a6e65d5692f59d57fc546a886bf2bc64f3fd",
+            "host": "keybase.io",
+            "key_id": "6A886BF2BC64F3FD",
+            "uid": "59815a49ad8912401094ec726c5afe00",
+            "username": "mikeh"
+        },
+        "merkle_root": {
+            "ctime": 1421792469,
+            "hash": "dfc0cd92ec7a1a3e5472eb25bd04e2ea74e9f8e16a7bc219fa7dd998325fdf9b89ae7c546e82cb8459fc8fe4218c2079446cdc055e2580a1c1f95ee9eb0d0c91",
+            "seqno": 136398
+        },
+        "service": {
+            "hostname": "mikexstudios.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421792528,
+    "expire_in": 157680000,
+    "prev": "61845169ae96facdf0d8d1f5625ba3ea8c2afae385e32275635d36636b30ad90",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVUjtrVEEUXuMDFITEQttwK5F1mfcjnTFsraAgWCzzOJOdbPbOeu/Ni5A+pb9A
+bWwFC7FRsVfERrCwsLWwiY0ogjMhYjLVzJzvfOf7zjkPL57uzS2s7U8OXvkff069
++2Z7d958mt+tbPI71dJu5dYj1F251WYK1VI1gR1rWhjEtFgnD4O1dvEI0682oWlj
+qjMKDeSAVnv9Ai/JIdar0MyaWLgqKY00AgT3XGgSuPZcBseZMEoJG4h1ggUafKYc
+p7Y7UbU65BxFn3/FjYxfHpLlm4IN6XAlxzYOA1wrzA3TxiuNCUMYaQZOEuG4CYBQ
+AbbQHFmaxgmMi9gpNJN1GDUpHTp2XSxxzAiWmjChsxzTjnOGDw45r0nmNNhQ4EwS
+sIRbjxgQMJKBDgqwMNI6gnUw0nutFSU8+KCt0gZkMQyKOKsY18GpALmQcgRJzZhw
+3iHOgXCFDHY4aA6gwSKPnMZZfwsP6pTFUUG12ivvZjM6KLpLz45Z2267DR9TO3Bp
+mhNnTeqSS+s5Ou662VIx3u3MCnoL7LPREdHIxtrnqR0fK87Qk03hRPUr2J7FBkax
+ILgUCuVT6sBmmRHO9rDIhrUIxvmAvPI4cJG7lTtnsmETDFDFgRIiuaDcUyGosBQZ
+r9F/qyzrNKuZso2rtek2Gqj29odnegtzvXNn58ra9i6cn/+3y1fe9x7D/uf7H37t
+3rr3+uP3UM1f7f+8ttJ7dP3ypZdffz/vbr94SxcP7qanX56Qvw==
+=Po8x
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mikeh
+
+==================================================================
